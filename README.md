@@ -1,6 +1,9 @@
+<div align="center">
 
-# Gradient backround color picker
+# Gradient Gradient - Gradient Background Color Generator
 
-It's a simple gradient generator by providing backgroundImage css property using javascript
+A simple gradient generator by providing backgroundImage css property using javascript
 
-[Click to see demo](https://grandgradient.netlify.app/)
+<a href="https://its-vinz.github.io/GradientCSS/"><strong>➥ Live Demo</strong></a> 
+
+</div>
