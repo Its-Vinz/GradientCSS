@@ -1,6 +1,6 @@
 <div align="center">
 
-# Gradient Gradient - Gradient Background Color Generator
+# Grand Gradient
 
 A simple gradient generator by providing backgroundImage css property using javascript
 
